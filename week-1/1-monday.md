@@ -7,5 +7,5 @@
 
 **Задания**
 
-1. [Sequelize - Гонки](../../../../sequelize-associations-drill-races-challenge)
+1. [Sequelize - Cкачки лошадей](../../../../sequelize-associations-drill-races-challenge)
 2. [Sequelize - Футболки](../../../../sequelize-associations-drill-shirts-challenge)
