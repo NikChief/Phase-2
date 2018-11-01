@@ -6,5 +6,5 @@
 ### Основной раздел
 
 **Задания**
-
-1. [Express - Avito-clone](../../../../avito-clone-challenge)
+1. [Express - CRUD](../../../../rest-controller-karaoke-challenge)
+2. [Express - Avito-clone](../../../../avito-clone-challenge)
