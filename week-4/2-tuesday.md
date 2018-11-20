@@ -3,35 +3,32 @@
 
 ### Подготовка к экзамену
 
-### Основной раздел
-
 **Задания**
 
 
 **Challenges - CRUD & Express**
-- [Refactor HR App](../../../../hr-sinatra-refactor-challenge)
-- [Hacker News Clone Part One](../../../../hacker-news-clone-part-1-challenge)
-- [Hacker News Clone Part Two](../../../../hacker-news-clone-part-2-challenge)
+
+- [REST](../../../../rest-controller-karaoke-challenge)
+- [Blog](../../../../blog-2-multi-author-challenge)
+- [Avito](../../../../avito-clone-challenge)
 
 **Challenges - Sequelize Validations**
 
-- [Intro to AR Validations](../../../../active-record-intro-validations-challenge)
-- [Event App Validations](../../../../ph2-p5-active-record-and-sinatra-propagating-validations-challenge)
+- [JS-Racer Back-end](../../../../javascript-racer-2-back-end-challenge)
 
 **Challenges - Sequelize Associations**
 
-- [Teams & Leagues](../../../../ar-teams-and-leagues-challenge)
-- [Shirts!](../../../../active-record-associations-drill-shirts-challenge)
-- [At the Races](../../../../active-record-associations-drill-at-the-races-challenge)
+- [Shirts!](../../../../sequelize-associations-drill-shirts-challenge)
+- [At the Races](../../../../sequelize-associations-drill-races-challenge)
 
 **Challenges - AJAX**
 
 - [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
-- [AJAX your CRUD apps](../../../../ajax-review-challenge)
+- [AJAX checkpoint challenge](../../../../ajax-checkpoint-challenge)
 
 **Challenges - JavaScript**
 
-- [Tic-Tac-Toe](../../../../tic-tac-toe-challenge)
+- [Oranges](../../../../orange-tree-1-just-oranges-challenge)
 - [OOJS with Gardens](../../../../oojs-garden-challenge)
 
 **Prep for Tomorrow**
@@ -40,6 +37,4 @@ Continue with review.
 
 ## Additional Resources
 
-See the [weekend review and resource sections](../week-5/weekend.md).
-
-
+See the [weekend review and resource sections](../week-3/weekend.md).
