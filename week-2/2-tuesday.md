@@ -1,11 +1,12 @@
 ## Вторник
 
 
-### Sessions, cookies, Passport
+### AJAX
 
 ### Основной раздел
 
 **Задания**
 
-1. [Express - Auth](../../../../express-authentication)
-2. [Express - Blog with auth](../../../../blog-2-multi-author-challenge)
+1. [Lucky Ajax](../../../../lucky-ajax-challenge)
+2. [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
+3. [AJAX checkpoint challenge](../../../../ajax-checkpoint-challenge)
