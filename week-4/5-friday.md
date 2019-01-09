@@ -1,4 +1,0 @@
-## Пятница
-
-
-### Personal Project

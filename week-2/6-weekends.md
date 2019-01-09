@@ -1,5 +1,3 @@
-## Вторник
-
 
 ### Подготовка к экзамену
 
@@ -12,11 +10,11 @@
 - [Blog](../../../../blog-2-multi-author-challenge)
 - [Avito](../../../../avito-clone-challenge)
 
-**Challenges - Sequelize Validations**
+**Challenges - Validations**
 
 - [JS-Racer Back-end](../../../../javascript-racer-2-back-end-challenge)
 
-**Challenges - Sequelize Associations**
+**Challenges - Associations**
 
 - [Shirts!](../../../../sequelize-associations-drill-shirts-challenge)
 - [At the Races](../../../../sequelize-associations-drill-races-challenge)

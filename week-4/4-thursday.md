@@ -1,4 +1,0 @@
-## Четверг
-
-
-### Personal Project
