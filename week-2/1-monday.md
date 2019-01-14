@@ -7,11 +7,11 @@
 
 **Задания**
 
-1. [REST Karaoke](../../../../rest-controller-karaoke-challenge)
-2. [Avito](../../../../avito-clone-challenge)
+1. [REST Karaoke](../../../../main-rest-karaoke)
+2. [Avito](../../../../main-rest-avito)
 
 
 ### Дополнительный раздел
 
 **Задания**
-1. [Blog multi-author](../../../../blog-2-multi-author-challenge)
+1. [Blog multi-author](../../../../main-passport-blog-multiauthor)
