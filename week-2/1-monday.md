@@ -7,8 +7,8 @@
 
 **Задания**
 
-1. [REST Karaoke](../../../../main-rest-karaoke)
-2. [Avito](../../../../main-rest-avito)
+1. [REST Karaoke](../../../../core-rest-karaoke)
+2. [Avito](../../../../core-rest-avito)
 
 
 ### Дополнительный раздел
