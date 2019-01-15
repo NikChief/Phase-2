@@ -1,3 +1,10 @@
+## Checkpoint: AJAX
+
+
+* [AJAX Self-Assessment](../../../../self-assessment-ajax-horses)
+
+
+---
 
 ### Подготовка к экзамену
 
