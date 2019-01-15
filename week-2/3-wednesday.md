@@ -7,5 +7,5 @@
 
 **Задания**
 
-1. [Express - Auth](../../../../core-express-authentication-intro)
-2. [Express - Blog with auth](../../../../core-passport-blog-multiauthor)
+1. [Express - Аутентификация](../../../../core-express-authentication-intro)
+2. [Express - Блог с аутентификацией и авторизацией](../../../../core-passport-blog-multiauthor)
