@@ -1,4 +1,4 @@
-## Checkpoint: AJAX
+## Self-Assessment: AJAX
 
 
 * [AJAX Self-Assessment](../../../../self-assessment-ajax-horses)
