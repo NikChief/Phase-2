@@ -1,4 +1,4 @@
-## Вторник
+## Среда
 
 
 ### Sessions, cookies, Passport
