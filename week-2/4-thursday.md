@@ -7,4 +7,4 @@
 
 **Задания**
 
-1. [ REST-AJAX-Passport Checkpoint](../../../../x-checkpoint)
+1. [ REST-AJAX-Passport Checkpoint](../../../../checkpoint-restapi-polls)
