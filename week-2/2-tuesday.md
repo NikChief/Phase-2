@@ -7,5 +7,6 @@
 
 **Задания**
 
-1. [Lucky Ajax](../../../../lucky-ajax-challenge)
-2. [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
+- [Lucky Ajax](../../../../lucky-ajax-challenge)
+- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
+- [Работа с JSON](https://github.com/Elbrus-Bootcamp/express-json-challenge)
