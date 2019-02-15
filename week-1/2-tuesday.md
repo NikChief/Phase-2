@@ -1,11 +1,10 @@
 ## Вторник
 
 
-### Express intro
+### Express
 
 ### Основной раздел
 
 **Задания**
 
-1. [Express - cheering mascot](../../../../express-cheering-mascot)
-2. [Express - blog](../../../../express-blog-1-anonymous-blog-challenge)
+- [Express - blog](../../../../express-blog-1-anonymous-blog-challenge)
