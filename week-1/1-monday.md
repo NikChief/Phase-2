@@ -1,21 +1,20 @@
 ## Понедельник
 
 
-### Закрепление MongoDB и Mongoose
+### Express intro + Закрепление Mongoose
 
 ### Основной раздел
 
 **Задания**
 
-1. [Mongo CLI](../../../../mongo-cli-intro)
-2. [Mongoose](../../../../mongo-intro)
-3. [Mongo: на скачках](../../../../sequelize-associations-drill-races-challenge)
+- [Express - cheering mascot](../../../../express-cheering-mascot)
+- [Mongo: на скачках](../../../../sequelize-associations-drill-races-challenge)
+- [Express - blog](../../../../express-blog-1-anonymous-blog-challenge)
 
 ### Дополнительный раздел
 
 **Задания**
 
 <!-- 2. [Sequelize - Футболки](../../../../sequelize-associations-drill-shirts-challenge) -->
-1. [Mongo: блог](../../../../blog-3-mongodb)
 
 
