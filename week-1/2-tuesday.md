@@ -7,4 +7,11 @@
 
 **Задания**
 
-- [Express - blog](../../../../express-blog-1-anonymous-blog-challenge)
+- [Анаграммы 1](../../../../anagram-server-1-the-basics-challenge)
+- [Блог 1](../../../../express-blog-1-anonymous-blog-challenge)
+
+
+### Дополнительный раздел
+
+**Задания**
+-[]()
