@@ -9,7 +9,8 @@
 
 **Задания**
 
-*Изучите материал по следующим ссылкам:*
+- Complete [Self-Assessment - Challenge]() in 3 hours
+(maximum!). When you've completed the challenge, submit a pull request.
 
 *Express*
 - [!Установить express](http://expressjs.com/ru/starter/installing.html)
