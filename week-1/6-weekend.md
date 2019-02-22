@@ -5,21 +5,13 @@
 **Обзор**
 
 - Просмотрите все темы, которые прошли за неделю. Все ли вы усвоили? Пробегитесь еще раз по всем заданиям за неделю, разберите их.
-- Основные задания за неделю: Mongoose hotels, Разработка базы данных опросов, mongo intro, group project
+- Основные задания за неделю: 
 
 **Задания**
 
-- Complete [Self-Assessment - Challenge]() in 3 hours
+- Complete [Self-Assessment - Challenge](https://github.com/Elbrus-Bootcamp/self-assessment-rest) in 3 hours
 (maximum!). When you've completed the challenge, submit a pull request.
 
-*Express*
-- [!Установить express](http://expressjs.com/ru/starter/installing.html)
-- [Посмотрите видео по Express](https://www.youtube.com/playlist?list=PL0lO_mIqDDFX0qH9w5YQIDV6Wxy0oawet)
-
-*Шаблонизаторы*
-- [Шаблонизатор - Википедия](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80)
-- [Handlebars docs](https://handlebarsjs.com)
-- [Handlebars. Руководство на habrahabr](https://habr.com/ru/post/273581/)
 
 **Дополнительно**
 
