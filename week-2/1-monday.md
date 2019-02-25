@@ -1,17 +1,17 @@
 ## Понедельник
 
 
-### REST API
+### AJAX
 
 ### Основной раздел
 
 **Задания**
 
-1. [REST Karaoke](../../../../core-rest-karaoke)
-2. [Avito](../../../../core-rest-avito)
+- [Lucky Ajax](../../../../lucky-ajax-challenge)
+- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 
 
+<!--
 ### Дополнительный раздел
-
-**Задания**
-1. [Blog multi-author](../../../../main-passport-blog-multiauthor)
+- [Работа с JSON](https://github.com/Elbrus-Bootcamp/express-json-challenge)
+-->
