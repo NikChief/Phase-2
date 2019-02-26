@@ -37,7 +37,7 @@
 
 ### Вспомогательные источники
 
-[Best practices - кратко обо всем](http://jstherightway.org/) (читайте раздел `The Good Parts`)
-[Scope, Hoisting, context](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
-[this, this, this](https://www.sitepoint.com/mastering-javascripts-this-keyword/)
-[this, apply, prototypes - Разобрать со всеми ответами](https://stackoverflow.com/questions/16226751/what-is-a-best-practice-for-ensuring-this-context-in-javascript)
+- [Best practices - кратко обо всем](http://jstherightway.org/) (читайте раздел `The Good Parts`)
+- [Scope, Hoisting, context](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
+- [this, this, this](https://www.sitepoint.com/mastering-javascripts-this-keyword/)
+- [this, apply, prototypes - Разобрать со всеми ответами](https://stackoverflow.com/questions/16226751/what-is-a-best-practice-for-ensuring-this-context-in-javascript)
