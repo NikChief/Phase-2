@@ -10,6 +10,10 @@
 
 **Задания**
 
+**Challenges - AJAX**
+
+- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
+- [AJAX checkpoint challenge](../../../../ajax-checkpoint-challenge)
 
 **Challenges - CRUD & Express**
 
@@ -17,28 +21,12 @@
 - [Blog](../../../../blog-2-multi-author-challenge)
 - [Avito](../../../../avito-clone-challenge)
 
-**Challenges - Validations**
-
-- [JS-Racer Back-end](../../../../javascript-racer-2-back-end-challenge)
-
-**Challenges - Associations**
+**Challenges - DB**
 
 - [Shirts!](../../../../sequelize-associations-drill-shirts-challenge)
 - [At the Races](../../../../sequelize-associations-drill-races-challenge)
 
-**Challenges - AJAX**
 
-- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
-- [AJAX checkpoint challenge](../../../../ajax-checkpoint-challenge)
-
-**Challenges - JavaScript**
-
-- [Oranges](../../../../orange-tree-1-just-oranges-challenge)
-- [OOJS with Gardens](../../../../oojs-garden-challenge)
-
-**Prep for Tomorrow**
-
-Continue with review.
 
 ## Additional Resources
 
