@@ -1,33 +1,15 @@
-## Self-Assessment: AJAX
+## Weekend
 
+### Основное
 
-* [AJAX Self-Assessment](../../../../self-assessment-ajax-horses)
+**Обзор**
 
-
----
-
-### Подготовка к экзамену
+- Просмотрите все темы, которые прошли за неделю. Все ли вы усвоили? Пробегитесь еще раз по всем заданиям за неделю, разберите их.
+- Основные задания за неделю:
 
 **Задания**
 
-**Challenges - AJAX**
+- Complete [AJAX Self-Assessment](../../../../self-assessment-ajax-horses) in 2 hours
+(maximum!). When you've completed the challenge, submit a pull request.
 
-- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
-- [AJAX checkpoint challenge](../../../../ajax-checkpoint-challenge)
-
-**Challenges - CRUD & Express**
-
-- [REST](../../../../rest-controller-karaoke-challenge)
-- [Blog](../../../../blog-2-multi-author-challenge)
-- [Avito](../../../../avito-clone-challenge)
-
-**Challenges - DB**
-
-- [Shirts!](../../../../sequelize-associations-drill-shirts-challenge)
-- [At the Races](../../../../sequelize-associations-drill-races-challenge)
-
-
-
-## Additional Resources
-
-See the [weekend review and resource sections](../week-3/weekend.md).
+**Дополнительно**
