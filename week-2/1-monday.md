@@ -13,4 +13,4 @@
 - [Avito](../../../../core-rest-avito)
 
 Так же можете реализовать свой блог, если не успели сделать это ранее. Не забывайте использовать тему сегодняшнего дня (REST).
-- [Блог 1](../../../../express-blog-1-anonymous-blog-challenge)
+- [Блог](../../../../express-blog-1-anonymous-blog-challenge)
