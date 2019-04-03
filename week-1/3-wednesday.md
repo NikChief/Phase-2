@@ -1,16 +1,25 @@
 ## Среда
 
-### REST API
+### AJAX
 
 ### Основной раздел
 
 **Задания**
 
-Ознакомьтесь с `README.md` по следующей ссылке:
-- [REST](../../../../core-rest-karaoke) - приводится пример правильно структурированных `routes` для приложения, а так же использования CRUD. Клонировать или делать форк не нужно, данное задание только для ознакомления с Rest, CRUD.
+- [Lucky Ajax](../../../../lucky-ajax-challenge)
+- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 
-Теперь сделайте свой клон Avito! 
-- [Avito](../../../../core-rest-avito)
 
-Так же можете реализовать свой блог, если не успели сделать это ранее. Не забывайте использовать тему сегодняшнего дня (REST).
-- [Блог 1](../../../../express-blog-1-anonymous-blog-challenge)
+### Дополнительный раздел
+
+**Задания**
+
+Попробуйте выполнить одно из следующих заданий с использованием AJAX:
+- [Блог](../../../../core-express-blog-anonymous)
+- [Авито](../../../../core-rest-avito)
+- [Опросы](../../../../checkpoint-mongo-polls)
+
+<!--
+- [Работа с JSON](https://github.com/Elbrus-Bootcamp/express-json-challenge)
+-->
+
