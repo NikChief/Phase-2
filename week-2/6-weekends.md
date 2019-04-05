@@ -9,7 +9,7 @@
 
 **Задания**
 
-- Complete [Self-Assessment - Challenge](https://github.com/Elbrus-Bootcamp/self-assessment-rest) in 3 hours
-(maximum!). When you've completed the challenge, submit a pull request.
+- Выполните [Self-Assessment - Challenge](https://github.com/Elbrus-Bootcamp/self-assessment-rest)  за 3 часа. Когда вы сделаете задание - отправьте `pull request`.
+
 
 **Дополнительно**
