@@ -9,10 +9,11 @@
 
 **Задания**
 
-- Complete [Self-Assessment - Challenge](https://github.com/Elbrus-Bootcamp/self-assessment-rest) in 3 hours
-(maximum!). When you've completed the challenge, submit a pull request.
+- Выполните [AJAX Self-Assessment](../../../../self-assessment-ajax-horses) за 2 часа. Когда вы сделаете задание - отправьте `pull request`.
 
 **Дополнительно**
+
+Ознакомьтесь со следующими ссылками:
 
 - [cookie](https://learn.javascript.ru/cookie)
 - [Аутентификация, сессии и контроль доступа в Express](https://nodeguide.ru/doc/dailyjs-nodepad/node-tutorial-5/)
