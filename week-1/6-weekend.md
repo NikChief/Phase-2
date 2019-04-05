@@ -10,16 +10,16 @@
 
 - Выполните [AJAX Self-Assessment](../../../../self-assessment-ajax-horses) за 2 часа. Когда вы сделаете задание - отправьте `pull request`.
 
-**Дополнительно**
+**Дополнительные материалы**
 
 Ознакомьтесь со следующими ссылками:
 
-*Видео:*
--[Theory Sessions and Cookies](https://www.youtube.com/watch?v=64veb6tKTm0)
--[Nodejs sessions](https://www.youtube.com/watch?v=JOaa18wd4ng)
--[Сессии, отслеживание посетителей Express](https://www.youtube.com/watch?v=X3xy6uh8rcI)
+**Видео:**..
+- [Theory Sessions and Cookies](https://www.youtube.com/watch?v=64veb6tKTm0)
+- [Nodejs sessions](https://www.youtube.com/watch?v=JOaa18wd4ng)
+- [Сессии, отслеживание посетителей Express](https://www.youtube.com/watch?v=X3xy6uh8rcI)
 
-*Статьи:*
+**Статьи:**
 
 *Подробнее о AJAX:*
 - [Ajax через xmlhttp](https://learn.javascript.ru/ajax-xmlhttprequest)
