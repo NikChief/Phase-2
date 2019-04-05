@@ -1,7 +1,7 @@
 ## Вторник
 
 
-### Sessions, cookies, (Passport)
+### Sessions, cookies
 
 ### Основной раздел
 
