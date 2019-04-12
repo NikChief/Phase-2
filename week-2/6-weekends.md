@@ -13,3 +13,5 @@
 
 
 **Дополнительно**
+
+- [Статья про WebSocket](https://tproger.ru/translations/what-are-web-sockets/)
