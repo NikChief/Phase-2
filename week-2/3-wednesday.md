@@ -16,23 +16,31 @@
   - Scoping
   - Hoisting
 
-- 2
+- 2 
+  - Context(this)
+  - Call, apply
+  
+- 3
   - Context(this)
   - Function binding
-  - Call, apply
 
-- 3 
+- 4 
   - Context(this)
   - Arrow function vs function
+  
+- 5
+  - Context(this)
   - Arrow vs Bind()
 
-- 4
+- 6
   - Closure function
+  
+- 7
   - Immediately invoked function expression (IIFE)
-
-- 5
   - Strict mode
-  - Prototypes
+  
+- 8
+  - Prototypes (__proto__, prototype)
 
 
 ### Вспомогательные источники
