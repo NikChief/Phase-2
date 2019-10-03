@@ -1,7 +1,7 @@
 ## Четверг
 
 
-### Checkpoint Challenge
+### Handlebars Client-side
 
 ### Основной раздел
 
