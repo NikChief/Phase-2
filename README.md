@@ -27,4 +27,4 @@ Time    | Activity
 
 ## Парное программирование 
 
-- [Пары фаза2](https://github.com/Elbrus-Bootcamp/phase-2/blob/master/resources/pairs.md)
+- [Пары](https://elbrus-scheduler.herokuapp.com/groups)
