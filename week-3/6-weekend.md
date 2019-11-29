@@ -2,7 +2,7 @@
 
 ### Самоподготовка
 
-https://ru.reactjs.org/docs/hello-world.html
+[tutorial react *must*](https://ru.reactjs.org/docs/hello-world.html)
 
 ### Основное
 
