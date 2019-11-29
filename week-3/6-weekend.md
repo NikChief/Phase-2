@@ -1,5 +1,9 @@
 ## Weekend
 
+### Самоподготовка
+
+https://ru.reactjs.org/docs/hello-world.html
+
 ### Основное
 
 **Обзор**
