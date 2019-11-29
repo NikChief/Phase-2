@@ -2,7 +2,7 @@
 
 ### Самоподготовка
 
-[tutorial react *must*](https://ru.reactjs.org/docs/hello-world.html)
+[Tutorial React *must*](https://ru.reactjs.org/docs/hello-world.html)
 
 [Ract Fundamentals Course *optional*](https://www.codecademy.com/courses/react-101)
 
