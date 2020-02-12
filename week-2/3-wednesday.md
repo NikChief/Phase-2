@@ -28,6 +28,16 @@
 - 14: LocalStorage && SessionStorage
 - 15: Иммутабельность && типы Set, Map, WeakSet и WeakMap
 
+<!--
+16: Referential transparency and pure functions
+17: RxJS
+18: Как читать официальную спецификацию ECMAScript на примере цикла for
+19: Монады в JS
+20: Node.JS Streams
+21: Node.JS C++ Addons
+22: Node.JS EventEmitter
+23: Node.JS Worker Threads
+-->
 
 ### Вспомогательные источники
 
