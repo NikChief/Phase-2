@@ -50,3 +50,11 @@
 - [Scope, Hoisting, context](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 - [this, this, this](https://www.sitepoint.com/mastering-javascripts-this-keyword/)
 - [this, apply, prototypes - Разобрать со всеми ответами](https://stackoverflow.com/questions/16226751/what-is-a-best-practice-for-ensuring-this-context-in-javascript)
+
+### Подготовка к завтрашнему дню
+
+* [.env](https://github.com/motdotla/dotenv)
+* [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+* [Mongo Atlas](https://docs.atlas.mongodb.com/getting-started/)
+* Наши прошлые лекции: [Женя (2019-11)](https://youtu.be/ZjgiAvkdSQ4)
+
