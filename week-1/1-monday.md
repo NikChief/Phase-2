@@ -8,13 +8,12 @@
 **Задания**
 
 - [Express - cheering mascot](../../../../express-cheering-mascot)
-- [Mongo: на скачках](../../../../sequelize-associations-drill-races-challenge)
+- [Mongo: на скачках (релиз 1)](../../../../core-mongo-associations-races)
+- [URL Shortener](../../../../core-express-url-shortener)
 
 ### Дополнительный раздел
 
 **Задания**
-
-- [URL Shortener](../../../../core-express-url-shortener)
 
 *Если не выполнили ранее:*
 - [Mongoose Hotels](../../../../core-mongoose-hotels)
