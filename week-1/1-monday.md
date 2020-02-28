@@ -24,4 +24,4 @@
 * [Express Middleware](https://expressjs.com/en/guide/using-middleware.html) ([RU](https://expressjs.com/ru/guide/using-middleware.html))
 * [Пишем свой middleware](https://expressjs.com/en/guide/writing-middleware.html) ([RU](https://expressjs.com/ru/guide/writing-middleware.html))
 * [Что такое замыкания](https://developer.mozilla.org/ru/docs/Web/JavaScript/Closures) ([learn.javascript](https://learn.javascript.ru/closures))
-* Наши прошлые лекции: [Женя (2019-12)](https://youtu.be/cLX1-99btYY), [Даня (2019-11)](https://youtu.be/E-7n4d95I7s)
+* Наши прошлые лекции: [Женя (2019-12)](https://youtu.be/lVyE_8JyKRA), [Даня (2019-11)](https://youtu.be/mbOgzYZenvo)
