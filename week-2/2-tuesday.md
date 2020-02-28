@@ -15,3 +15,9 @@
 ### Вспомогательные материалы
 
 - [Скелет приложения на express с использованием express-session и Redis](../../../../skeleton-express-session)
+
+### Подготовка к завтрашнему дню
+
+* [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) ([RU](https://developer.mozilla.org/ru/docs/Web/HTTP/CORS), [learn.javascript](https://learn.javascript.ru/fetch-crossorigin))
+* [Passport.JS](http://www.passportjs.org/docs/)
+* Наши прошлые лекции: [Даня (2019-12)](https://youtu.be/_P9AfksZ04o), [Женя (2019-11)](https://youtu.be/WhE7lI-0e0U), [Саша (2019-10p1)](https://youtu.be/7EXHJCGigt0), [Саша (2019-10p2)](https://youtu.be/yloA9NGIDkw)
