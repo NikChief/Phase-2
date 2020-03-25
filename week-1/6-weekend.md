@@ -8,6 +8,7 @@
 
 **Задания**
 
+- **Обязательно** прорешайте [Grok AJAX](https://github.com/Elbrus-Bootcamp/grok-ajax). От этого зависит ваше будущее!
 - Выполните [AJAX Self-Assessment](../../../../self-assessment-ajax-horses) за 2 часа. Когда вы сделаете задание - отправьте `pull request`.
 
 **Дополнительные материалы**
