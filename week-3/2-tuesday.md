@@ -27,4 +27,4 @@
 
 ## Additional Resources
 
-See the [weekend review and resource sections](../week-3/weekend.md).
+See the [weekend review and resource sections](../week-3/6-weekend.md).
