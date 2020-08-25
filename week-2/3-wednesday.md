@@ -56,5 +56,5 @@
 * [.env](https://github.com/motdotla/dotenv)
 * [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 * [Mongo Atlas](https://docs.atlas.mongodb.com/getting-started/)
-* Наши прошлые лекции: [Женя (2020-08)](https://www.youtube.com/watch?v=I3tJuxGvq-4&list=PL8NGcSL3ZP-8ZNwxAE8gkKSMEHyy6oD0P&index=6&t=0s)
+* Наши прошлые лекции: [Женя (2020-07)](https://www.youtube.com/watch?v=hPrJuJdkCAI&list=PL8NGcSL3ZP-8ZNwxAE8gkKSMEHyy6oD0P&index=8&t=0s)
 
