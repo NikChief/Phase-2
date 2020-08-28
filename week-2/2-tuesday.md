@@ -14,7 +14,7 @@
 
 ### Вспомогательные материалы
 
-- [Скелет приложения на express с использованием express-session и Redis](../../../../skeleton-express-session)
+- [Скелет приложения на express с использованием express-session](../../../../auth-skeleton)
 
 ### Подготовка к завтрашнему дню
 
