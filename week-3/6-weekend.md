@@ -12,6 +12,6 @@
 
 **Обзор**
 
-Your [Phase 3 guide](../../../../phase-3) will outline your final phase at Elbrus.
+Заключительная часть обучения в Elbrus - [Фаза 3](../../../../phase-3).
 
 
