@@ -18,6 +18,12 @@
 - [Mongoose Hotels](../../../../core-mongoose-hotels)
 - [Mongo: на скачках (релиз 1)](../../../../core-mongo-associations-races)
 
+**Полезныне статьи**
+
+- [Список кодов состояния HTTP](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F_HTTP)
+- [Serving static files in Express](http://expressjs.com/en/starter/static-files.html)
+- [Методы HTTP запроса](https://developer.mozilla.org/ru/docs/Web/HTTP/Methods)
+
 ### Подготовка к завтрашнему дню
 
 * [Express Routing](https://expressjs.com/en/guide/routing.html) ([RU](https://expressjs.com/ru/guide/routing.html))
