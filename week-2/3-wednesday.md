@@ -28,18 +28,24 @@
 - 14: LocalStorage && SessionStorage
 - 15: Иммутабельность && типы Set, Map, WeakSet и WeakMap
 - 16: Passport JS
+- 17: Event Bubbling и Event Capturing
+- 18: Примеры сложной Деструктуризации
+- 19: Spread-оператор и rest-оператор
+- 20: Wrapper Objects?
+- 21: Что такое объект arguments?
+- 22: Флаги и дескрипторы. Для чего нужны и как с ними работать?
 
 <details>
   <summary>Дополнительные темы, если не всем хватило</summary>
   
-    - 17: Referential transparency and pure functions
-    - 18: RxJS
-    - 19: Как читать официальную спецификацию ECMAScript на примере цикла for
-    - 20: Монады в JS
-    - 21: Node.JS Streams
-    - 22: Node.JS C++ Addons
-    - 23: Node.JS EventEmitter
-    - 24: Node.JS Worker Threads
+    - 23: Referential transparency and pure functions
+    - 24: RxJS
+    - 25: Как читать официальную спецификацию ECMAScript на примере цикла for
+    - 26: Монады в JS
+    - 27: Node.JS Streams
+    - 28: Node.JS C++ Addons
+    - 29: Node.JS EventEmitter
+    - 30: Node.JS Worker Threads
    
 </details>
 
