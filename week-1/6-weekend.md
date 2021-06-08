@@ -17,13 +17,13 @@
 
 **Видео:**..
 - [Theory Sessions and Cookies](https://www.youtube.com/watch?v=64veb6tKTm0)
-- [Nodejs sessions](https://www.youtube.com/watch?v=JOaa18wd4ng)
 - [Сессии, отслеживание посетителей Express](https://www.youtube.com/watch?v=X3xy6uh8rcI)
+- [Введение в express-session](https://youtu.be/J1qXK66k1y4)
 
 **Статьи:**
 
 *Подробнее о AJAX:*
-- [Ajax через xmlhttp](https://learn.javascript.ru/ajax-xmlhttprequest)
+- [Ajax через xmlhttp](https://learn.javascript.ru/xmlhttprequest)
 - [Fetch - замена xmlhttp](https://learn.javascript.ru/fetch)
 
 *Изучить*
