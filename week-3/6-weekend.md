@@ -12,6 +12,9 @@
 ### Документация по Реакту
 https://ru.reactjs.org/docs
 
+### Записи лекций
+- [Семён 03-2021](https://youtu.be/8-DFTnN3628)
+- [Женя 09-2020](https://www.youtube.com/watch?v=T2ffxrLWwBA)
 
 ### Основное
 
