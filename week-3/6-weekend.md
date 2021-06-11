@@ -1,6 +1,7 @@
 ## Weekend
 
 ### Самоподготовка
+– [Плавный вход в реакт (Артём 06-2022)](https://youtu.be/cadsNOXLgas)
 - [Full Intro to React](https://www.youtube.com/watch?v=Dorf8i6lCuk)
 - [Hooks](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)
 - [Ract Fundamentals Course *optional*](https://www.codecademy.com/courses/react-101)
