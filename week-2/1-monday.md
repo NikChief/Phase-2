@@ -6,7 +6,7 @@
 
 **Задания**
 
-- [REST](../../../../core-rest-karaoke) 
+- [REST](https://github.com/Elbrus-Bootcamp/core-rest-karaoke-sql) 
 - [Avito](../../../../core-rest-avito)
 
 Так же можете реализовать свой блог, если не успели сделать это ранее. Не забывайте использовать тему сегодняшнего дня (REST).
