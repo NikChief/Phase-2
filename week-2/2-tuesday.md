@@ -9,7 +9,7 @@
 
 <!-- - [Express - Аутентификация](../../../../core-express-authentication-intro) -->
 
-- [Express - Блог с аутентификацией и авторизацией](../../../../core-passport-blog-multiauthor)
+- [Express - Блог с аутентификацией и авторизацией](https://github.com/Elbrus-Bootcamp/core-passport-blog-multiauthor-sql)
 
 
 ### Вспомогательные материалы
