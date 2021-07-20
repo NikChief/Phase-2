@@ -15,8 +15,8 @@
 **Задания**
 
 *Если не выполнили ранее:*
-- [Mongoose Hotels](../../../../core-mongoose-hotels)
-- [Mongo: на скачках (релиз 1)](../../../../core-mongo-associations-races)
+- [Sequelize Hotels](../../../../p1-sequelize-hotels)
+- [Sequelize: на скачках (релиз 1)](../../../../p1-sql-sequelize-races)
 
 **Полезныне статьи**
 
