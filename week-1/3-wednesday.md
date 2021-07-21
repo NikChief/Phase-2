@@ -17,7 +17,6 @@
 Попробуйте выполнить одно из следующих заданий с использованием AJAX:
 - [Блог](../../../../core-express-blog-anonymous)
 - [Авито](../../../../core-rest-avito)
-- [Опросы](../../../../checkpoint-mongo-polls)
 
 <!--
 - [Работа с JSON](https://github.com/Elbrus-Bootcamp/express-json-challenge)
