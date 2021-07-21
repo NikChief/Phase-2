@@ -7,7 +7,6 @@
 **Задания**
 
 - [Lucky Ajax](../../../../lucky-ajax-challenge)
-- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
 - [AJAXifying Hacker News(SQL)](https://github.com/Elbrus-Bootcamp/ajaxifying-hacker-news-challenge-sql)
 
 
