@@ -1,11 +1,13 @@
 ## Четверг
 
+### Docker
 
-### Handlebars Client-side
+### Полезные ссылки:
 
-### Основной раздел
+- Команды в Doker: https://docs.docker.com/engine/reference/commandline/cli/
+- Справка по Dockerfile: https://docs.docker.com/engine/reference/builder/
+- Лучшие практики: https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+
 
 **Задания**
-1. [Web Scraping](../../../../parsing-101)
-1. [Client Handlebars Challenge](https://github.com/Elbrus-Bootcamp/handlebars-client-challenge)
-1. [Polls Mongo Checkpoint](../../../../poll-database-design-challenge-mongo)
+1. [Docker в каждый дом]()
