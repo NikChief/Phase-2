@@ -9,7 +9,7 @@
 
 **Challenges - AJAX**
 
-- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge)
+- [AJAXifying Hacker News](../../../../ajaxifying-hacker-news-challenge-sql)
 - [AJAX checkpoint challenge](../../../../ajax-checkpoint-challenge)
 
 **Challenges - CRUD & Express**
