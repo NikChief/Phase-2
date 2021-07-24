@@ -52,7 +52,7 @@
 
 ### Вспомогательные источники
 
-- [Best practices](http://jstherightway.org/) (читайте раздел `The Good Parts`)
+- [Best practices](https://jstherightway.org/) (читайте раздел `The Good Parts`)
 - [Scope, Hoisting, context](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 - [this, this, this](https://www.sitepoint.com/mastering-javascripts-this-keyword/)
 - [Алгоритм определения this (ENG)](https://dmitripavlutin.com/javascript-this-algorithm/)
