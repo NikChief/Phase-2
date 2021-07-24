@@ -20,8 +20,8 @@
 
 **Challenges - DB**
 
-- [Shirts!](../../../../sequelize-associations-drill-shirts-challenge)
-- [At the Races](../../../../sequelize-associations-drill-races-challenge)
+- [Shirts!](../../../../p1-sequelize-shirts)
+- [At the Races](../../../../p1-sql-sequelize-races)
 
 
 
