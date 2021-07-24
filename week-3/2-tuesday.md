@@ -14,7 +14,7 @@
 
 **Challenges - CRUD & Express**
 
-- [REST](../../../../rest-controller-karaoke-challenge)
+- [REST](../../../../core-rest-karaoke-sql)
 - [Blog](../../../../blog-2-multi-author-challenge)
 - [Avito](../../../../avito-clone-challenge)
 
