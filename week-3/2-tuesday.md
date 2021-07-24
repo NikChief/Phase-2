@@ -15,7 +15,7 @@
 **Challenges - CRUD & Express**
 
 - [REST](../../../../core-rest-karaoke-sql)
-- [Blog](../../../../blog-2-multi-author-challenge)
+- [Blog](../../../../core-passport-blog-multiauthor-sql)
 - [Avito](../../../../avito-clone-challenge)
 
 **Challenges - DB**
