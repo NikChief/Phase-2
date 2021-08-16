@@ -1,7 +1,7 @@
 ## Понедельник
 
 
-### Express intro + Закрепление Mongoose
+### Express intro + Закрепление sequelize 
 
 ### Основной раздел
 
