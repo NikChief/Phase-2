@@ -17,7 +17,7 @@
 -[]()
 
 ### Подготовка к завтрашнему дню
-
+* [Git](https://github.com/Elbrus-Bootcamp/short-squeeze-phase-2/tree/master/week-1/fetch) / [Youtube](https://youtu.be/L4Yy_C0AM40)
 * [Fetch API](https://learn.javascript.ru/fetch)
 * [event.preventDefault()](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault) ([RU](https://developer.mozilla.org/ru/docs/Web/API/Event/preventDefault))
 * [Всплытие и погружение](https://learn.javascript.ru/bubbling-and-capturing)
